@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FisherYates",
+        "repositoryURL": "https://github.com/ryansobol/swift-package-fisheryates.git",
+        "state": {
+          "branch": "master",
+          "revision": "70e3e21c692045d6f0630dd46138474742fbf28e",
+          "version": null
+        }
+      },
+      {
+        "package": "PlayingCard",
+        "repositoryURL": "https://github.com/ryansobol/swift-package-playingcard.git",
+        "state": {
+          "branch": "master",
+          "revision": "b67e86f65696c1f639221150ab11de7bc2d0bc9a",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
