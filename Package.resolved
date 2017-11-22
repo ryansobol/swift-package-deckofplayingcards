@@ -6,7 +6,7 @@
         "repositoryURL": "https://github.com/ryansobol/swift-package-fisheryates.git",
         "state": {
           "branch": "master",
-          "revision": "70e3e21c692045d6f0630dd46138474742fbf28e",
+          "revision": "c07ce2264ad3a91fcb26ac210b244fc859ab7ddf",
           "version": null
         }
       },
@@ -15,7 +15,7 @@
         "repositoryURL": "https://github.com/ryansobol/swift-package-playingcard.git",
         "state": {
           "branch": "master",
-          "revision": "b67e86f65696c1f639221150ab11de7bc2d0bc9a",
+          "revision": "878aa1423645969b60ad10b6a41e2eb2e6e15add",
           "version": null
         }
       }
